@@ -1,0 +1,38 @@
+/* .form {
+  padding: 10%;
+  height: 600px;
+  background: rgb(60, 199, 153);
+  border-radius: 8px;
+  background-size: cover;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+} */
+
+.buttom {
+  border: rgb(22, 114, 87);
+  background: rgb(231, 228, 225);
+  color: rgb(15, 134, 134);
+  width: 100px;
+  padding: 10px;
+  border-width: 2px;
+  border-style: solid;
+  font-family: Cambria;
+  font-size: 18px;
+  font-style: italic,;
+  border-radius: 8px;
+  font-weight: 1000;
+}
+
+.input {
+    padding: 10px;
+    font-family: Cambria;
+    font-size: 16px;
+}
+
+.signIn {
+    color: rgb(12, 71, 54);
+}
+
+.error {
+    color: rgb(206, 26, 35);
+}
